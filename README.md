@@ -1,3 +1,10 @@
+### 🎮 Watch Me Code (or Watch a Snake Eat My Contributions) 🐍
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/brianevk/brianevk/main/assets/github-snake.gif" alt="GitHub Snake Contribution Game" style="max-width: 100%;">
+</p>
+
+---
 # 🧑‍💻 Hello World! I'm Brian Evan Kristanto 👋
 
 ### Mobile AR & Full-Stack Engineer Enthusiast 📱
