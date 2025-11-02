@@ -6,17 +6,17 @@
     <a href="https://www.linkedin.com/in/brian-evan-546217304">
         <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
     </a>
-    <a href="https://www.instagram.com/brianevk._/"> 
+    <a href="https://www.instagram.com/brianevk._/">
         <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
     </a>
     <a href="https://drive.google.com/drive/folders/1M4r8yVtnAm68Svw0ywnDWSDDzsjehz75?usp=sharing">
         <img src="https://img.shields.io/badge/CV-Download%20%E2%AC%87%EF%B8%8F-FF4500?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV">
     </a>
     <img src="https://img.shields.io/badge/Full--Stack%20-Dev-339933?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer">
-    <img src="https://img.shields.io/badge/Full--Stack%20-Dev-339933?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer">
     <a href="https://socs.binus.ac.id/">
         <img src="https://img.shields.io/badge/BINUS%20-SoCS-003D79?style=for-the-badge&logo=universidad-nacional-de-colombia&logoColor=white" alt="BINUS SoCS Link">
     </a>
+    <img src="https://img.shields.io/badge/Unity%20-AR%20Developer-00BFFF?style=for-the-badge&logo=unity&logoColor=white" alt="Unity AR Developer">
 </p>
 
 ---
@@ -24,6 +24,8 @@
 A student of **Mobile Application and Technology** at **BINUS University @Kemanggisan**. I thrive on challenges that require both **Front-End Creativity** and **Mobile Engineering Precision**.
 
 I am driven to create highly **functional**, aesthetically pleasing digital solutions that adhere to strong **Human-Computer Interaction (HCI)** principles.
+
+> **"The most valuable thing you can make is a mistake – you can't learn anything from being perfect."** — Adam Osborne
 
 ---
 
@@ -33,8 +35,8 @@ Over the past three years of academic study and self-learning, I have acquired a
 
 | Category | Key Technologies | Emphasis |
 | :--- | :--- | :--- |
-| **Web & Full-Stack** | `JavaScript`, `HTML5`, `CSS`, `React`, `SQL` | JS Clean Code, Responsive Design, Database Querying |
-| **Mobile & AR Dev** | `C#`, `Unity Engine`, `ShaderLab`, `AR Foundation`, `Android (Kotlin)` | 3D Simulation, High-Performance Rendering, AR/VR |
+| **Web & Full-Stack** | **`JavaScript`**, `HTML5`, `CSS`, `React`, `SQL` | JS Clean Code, Responsive Design, Database Querying |
+| **Mobile & AR Dev** | **`C#`**, `Unity Engine`, `ShaderLab`, `AR Foundation`, `Android (Kotlin)` | 3D Simulation, High-Performance Rendering, AR/VR |
 
 ---
 
@@ -75,5 +77,8 @@ I'm keen on exploring roles in **Mobile Engineering**, or **Full-Stack/Front-End
 **I am always open to exploring any and all opportunities presented.** Thank you for visiting my profile!
 
 * **Email:** `brian.kristanto@binus.ac.id`
+* **LinkedIn:** [linkedin.com/in/brian-evan-546217304](https://www.linkedin.com/in/brian-evan-546217304)
+* **Instagram:** [instagram.com/brianevk._/](https://www.instagram.com/brianevk._/)
 
 ---
+Developed with passion.
