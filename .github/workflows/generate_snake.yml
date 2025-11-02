@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Checkout the repository contents
+      - uses: actions/checkout@v4
+      
+      # Step 2: Generate the snake game SVG/GIF
+      - uses: platane/snk@v3
+        with:
+          github_user_name: brianevk  # GANTI DENGAN USERNAME GITHUB ANDA
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake.gif
+
+      # Step 3: Commit the new files to the 'assets' directory
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commit: true
+          files: assets/github-snake.svg assets/github-snake.gif
+          message: 'Generate new snake animation 🐍'
