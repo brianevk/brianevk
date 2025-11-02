@@ -16,7 +16,6 @@
     <a href="https://socs.binus.ac.id/">
         <img src="https://img.shields.io/badge/BINUS%20-SoCS-003D79?style=for-the-badge&logo=universidad-nacional-de-colombia&logoColor=white" alt="BINUS SoCS Link">
     </a>
-    <img src="https://img.shields.io/badge/Unity%20-AR%20Developer-00BFFF?style=for-the-badge&logo=unity&logoColor=white" alt="Unity AR Developer">
 </p>
 
 ---
