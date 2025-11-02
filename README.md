@@ -21,7 +21,7 @@
 
 ---
 
-A student of **Mobile Application and Technology** at **BINUS University @Kemanggisan**. I thrive on challenges that require both **Front-End creativity** and **Mobile engineering precision**.
+A student of **Mobile Application and Technology** at **BINUS University @Kemanggisan**. I thrive on challenges that require both **Front-End Creativity** and **Mobile Engineering Precision**.
 
 I am driven to create highly **functional**, aesthetically pleasing digital solutions that adhere to strong **Human-Computer Interaction (HCI)** principles.
 
