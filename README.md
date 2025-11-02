@@ -9,7 +9,7 @@
     <a href="https://www.instagram.com/brianevk._/"> 
         <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
     </a>
-    <a href="https://drive.google.com/file/d/1IqM0Tu6YaKSgcBNU0xcdu2xzGwNl7Dpj/view?usp=sharing](https://drive.google.com/drive/folders/1M4r8yVtnAm68Svw0ywnDWSDDzsjehz75?usp=sharing">
+    <a href="[https://drive.google.com/file/d/1IqM0Tu6YaKSgcBNU0xcdu2xzGwNl7Dpj/view?usp=sharing]">
         <img src="https://img.shields.io/badge/CV-Download%20%E2%AC%87%EF%B8%8F-FF4500?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV">
     </a>
     <img src="https://img.shields.io/badge/Full--Stack%20-Dev-339933?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer">
